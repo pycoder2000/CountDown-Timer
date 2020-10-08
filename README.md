@@ -1,4 +1,4 @@
-# CountDownGirlfriend
+# CountDownTimer
 You Only change the index.html
 
 And to change the date go to /js/frotn.js and change this...
