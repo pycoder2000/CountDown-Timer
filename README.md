@@ -1,5 +1,5 @@
 # CountDownTimer
-You Only change the index.html
+You only change <code>index.html</code>
 
 And to change the date go to /js/frotn.js and change this...
 
@@ -14,4 +14,4 @@ config = {
     }
 }
 
-Enjoy
+Enjoy!
